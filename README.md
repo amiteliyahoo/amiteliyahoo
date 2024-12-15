@@ -2,6 +2,8 @@
 
 ![A picture of me](./images/photo%20of%20me.jfif)
 
+
+
 ## About Me 🚀
 Hi there! I'm Amit, a newby software developer who loves solving problems and building innovative solutions. 
 
